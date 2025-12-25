@@ -82,5 +82,6 @@ High-demand routes were cancelled, resulting in substantial revenue loss
 Certain airports consistently contributed more to overall revenue at risk
 
 6.Dashboard Screenshot
+https://github.com/shrutiwad0308/IndiGo-December-2025-Operational-Disruption-Analysis/blob/main/INDIGO_AIRLINE.jpeg
 
   
