@@ -1,4 +1,4 @@
-# IndiGo-December-2025-Operational-Disruption-Analysis
+# Airline-2025-Operational-Disruption-Analysis
 1.Project Title
 
  Airline Operations & Revenue Disruption Analytics – IndiGo (December 2025)
