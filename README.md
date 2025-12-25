@@ -1,0 +1,1 @@
+# IndiGo-December-2025-Operational-Disruption-Analysis
